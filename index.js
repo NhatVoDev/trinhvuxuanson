@@ -295,7 +295,7 @@ function showData(jobData) {
 
     var detail = document.createElement("ul");
     var li = document.createElement("li");
-    li.innerText = elm.jobDetais;
+    li.innerText = 'In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes.';
 
     var rating = document.createElement("p");
 
