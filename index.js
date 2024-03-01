@@ -1,14 +1,14 @@
 var jobData = [
   {
     post: "Mechanical Supervisor",
-    companyName: "Vintage Coffee and Beverages Ltd",
+    companyName: "Công ty 1",
     place: "Telangana",
-    salaray: "240000",
+    salaray: "50000222",
     jobType: ["Full-time", "Part-time", "Regular"],
     Shift: "Day shift",
     Quali: "Bachelor's (Required)",
     jobDetais:
-      "B Tech Mechanical with 3+ year experience in manufacturing and process industry.Responsible for total Maintenance of the Mechanical Dept. Able to handle Maintenance of Boiler, Pumps and motors, RO Plant, VAM, Compressors, DG Sets, Pumps, Blowers, rotating equipment ete.,Should also handle Fitters, welders, Instrumentation and Electricians.",
+      "con viec tesst B Tech Mechanical with 3+ year experience in manufacturing and process industry.Responsible for total Maintenance of the Mechanical Dept. Able to handle Maintenance of Boiler, Pumps and motors, RO Plant, VAM, Compressors, DG Sets, Pumps, Blowers, rotating equipment ete.,Should also handle Fitters, welders, Instrumentation and Electricians.",
     rating: "3.0",
   },
   {
@@ -295,7 +295,8 @@ function showData(jobData) {
 
     var detail = document.createElement("ul");
     var li = document.createElement("li");
-    li.innerText = 'In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes.';
+    li.innerText = 'In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes. In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes In this aspect, they are responsible for gathering data that can be used by both government and private health care organizations in a centralized system of health information management should a national emergency arise such as an epidemic. They can also coordinate with international agencies for various purposes such as a catastrophe that need combined information from different sources for collaboration purposes '
+    ;
 
     var rating = document.createElement("p");
 

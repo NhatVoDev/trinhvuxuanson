@@ -437,13 +437,16 @@
      padding-bottom: 20px;
  }
 
- footer>ul {
+ footer>.col-12>ul {
      display: flex;
      list-style: none;
      /* width: 80%; */
      padding-bottom: 10px;
  }
-
+ .footer-box{
+    display: flex;
+    justify-content: center;
+ }
  #lastline {
      text-align: center;
  }
